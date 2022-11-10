@@ -3,5 +3,5 @@
 @section('content')
 
 DATA User
-
+ 
 @endsection
